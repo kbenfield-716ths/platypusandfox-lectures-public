@@ -1,1 +1,1 @@
-# latypusandfox-lectures-public
+# platypusandfox-lectures-public
