@@ -1,0 +1,36 @@
+{
+  "updated": "2026-03-05",
+  "series": [
+    {
+      "id": "spring-2026-NWAS",
+      "title": "March 2026 Webinar - Critical Care a Team Based Approach",
+      "description": "Lectures from the March 2026 Webinar",
+      "lectures": [
+        {
+          "id": "NWAS-01",
+          "title": "Hypothermia",
+          "description": "Lecture on Hypothermia and Frostbite.",
+          "date": "2026-03-04",
+          "filename": "lectures/example-series/NWAS-Hypothermia.pptx",
+          "version": "1.0"
+        }
+        {
+          "id": "NWAS-02",
+          "title": "Top 10 Articles in 2025",
+          "description": "10 Clinical Case with recent literature review",
+          "date": "2026-03-04",
+          "filename": "lectures/example-series/TopArticles_CME_Expanded.pptx",
+          "version": "1.0"
+        }
+        {
+          "id": "NWAS-03",
+          "title": "Hepatorenal Syndrome in the ICU",
+          "description": "Updates in Managing Hepatorenal Syndrome",
+          "date": "2026-03-05",
+          "filename": "lectures/example-series/HRS_ICU_Presentation.pptx",
+          "version": "1.0"
+        }
+      ]
+    }
+  ]
+}
